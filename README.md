@@ -1,3 +1,4 @@
+![logo](https://github.com/ShraddhaNandPandey/ShraddhaNandPandey/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Shraddha Nand Pandey</h1>
 <h3 align="center">"Transforming Ideas into Reality 🌟 | Tech Enthusiast 💻"</h3>
 <img align="right" alt="coding" widht="30" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
