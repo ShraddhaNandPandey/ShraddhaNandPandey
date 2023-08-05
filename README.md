@@ -1,4 +1,7 @@
-![logo](https://github.com/ShraddhaNandPandey/ShraddhaNandPandey/blob/main/banner.jpg)
+<p align="center">
+    <img src="https://github.com/ShraddhaNandPandey/ShraddhaNandPandey/blob/main/new%20banner.png" alt="logo" width="300">
+</p>
+
 <h1 align="center">Hi 👋, I'm Shraddha Nand Pandey</h1>
 <h3 align="center">"Transforming Ideas into Reality 🌟 | Tech Enthusiast 💻"</h3>
 <img align="right" alt="coding" widht="30" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
@@ -20,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddhanandpandey&show_icons=true&locale=en" alt="shraddhanandpandey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddhanandpandey&" alt="shraddhanandpandey" /></p>
+
