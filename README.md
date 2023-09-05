@@ -16,7 +16,6 @@
 </p>
 
 
-[![ShraddhaNandPandey's GitHub | Stats](https://stats.quine.sh/ShraddhaNandPandey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShraddhaNandPandey)
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,6 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shraddhanandpandey&show_icons=true&locale=en" alt="shraddhanandpandey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddhanandpandey&" alt="shraddhanandpandey" /></p>
+
+[![ShraddhaNandPandey's GitHub | Stats](https://stats.quine.sh/ShraddhaNandPandey/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ShraddhaNandPandey)
 
 [![ShraddhaNandPandey's GitHub | Languages Over Time](https://stats.quine.sh/ShraddhaNandPandey/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=ShraddhaNandPandey)
 
